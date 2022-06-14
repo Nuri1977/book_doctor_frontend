@@ -1,6 +1,6 @@
 import StorageManager from '../format/StorageManager';
 
-export const endpoint = 'http://localhost:3001/v1/';
+export const endpoint = 'https://book-a-doctor.herokuapp.com/v1/';
 
 export const formatDate = (date) => date;
 
